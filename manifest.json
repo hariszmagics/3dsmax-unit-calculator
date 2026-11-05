@@ -1,0 +1,29 @@
+{
+  "version": "3.2.0",
+  "sha256": {
+    "hmedia_units/__init__.py": "01b58fdb3d5b89a30c1bdc113777c103ca9f892a1e6b7456ddb315129e1caac3",
+    "hmedia_units/core.py": "901e6116edf6c644ec4b2a4ac4d0f96839f794e3ed57aa7742109b9e8a72f194",
+    "hmedia_units/host.py": "56fa8a38e5235229a44251dc130c00becbc9b174773bc85f1e1acbb2dafd6405",
+    "hmedia_units/icons/tape.svg": "321835262d3ee9968641dbb97d2e7a99ab7e4f438ba35002c37b17520da433dc",
+    "hmedia_units/icons/tape_128.png": "7d10605b245771f08b27dacf86c3c8ca7f55f1c289a1d4f77d8e7d7020f6813f",
+    "hmedia_units/icons/tape_16.png": "90e8835f6f70ea922a897e395c8abe99f664ed760f248512908ada2eca3cba19",
+    "hmedia_units/icons/tape_20.png": "ed0042359304cb96b965ea938cc5cde660a43cc4e7e8c148132aa1de829385f2",
+    "hmedia_units/icons/tape_24.png": "ac20d49bb23e83289c83805797bb5968d4791d10cd74666a373602be3f9caed1",
+    "hmedia_units/icons/tape_30.png": "29f301ba1278c993845e483b449ec94104f7581df2a1d6a52c0ebc740c41e8d1",
+    "hmedia_units/icons/tape_32.png": "b4d729a742c9cf242e34b618442bb377fe105d74cfd0e07d45d43392dd46ee69",
+    "hmedia_units/icons/tape_36.png": "cf49f70802bcfea731e97dbf4147a619ccb65c57feda98426f366c43fe7f288f",
+    "hmedia_units/icons/tape_40.png": "837bfdae57a03bda94e9ef382fa6d6c030948883deba2bdbb74d27221486c6f2",
+    "hmedia_units/icons/tape_48.png": "982abb6ede5fa117cf2046abb9eb1e7cd23c94bb8740fdb19896e213c20d622e",
+    "hmedia_units/icons/tape_64.png": "1c4ce43259626e846ee8226f09c241359ce3509f65c72e9f4ea878b183a21bc3",
+    "hmedia_units/icons/tape_96.png": "f3f7614868eaba1351a47fe492063e57c0cbcc5301849a75d3f3c79b9126075c",
+    "hmedia_units/ui.py": "33b2426d1104c9e1f2c53f266aede902b8fce85b4d8fa3fef774638c44d3483d",
+    "Install.ms": "44f3b46d35839dfeb090f9685144b07a24016ec7f2b07a4d717d08223f6f7675",
+    "install.py": "c4b1fe94ac1c92b0ad9df934b0e90ffb1c0d0bdb1a09fecb2f283f84154d7a9a",
+    "launch.py": "f9af008b7a269f06305b874b783ec27bb1c627db3f2ba2d9abe71569925ba965",
+    "mzp.run": "3c9e83e219d453a244a163c91dc021653d2f4ff734509016215ab6ef5bf14745",
+    "Open Converter.ms": "4489d940d8386c155051fa9b8eea2626b7e9f18a36734b1c4de41c40bd3b9610",
+    "README.md": "202dc18687e0623619141949ddc7e9af4b2aa98f62cb6f74cb684b0f9767ce07",
+    "UnitConverter.mcr": "8d59a08f04d8e679673792c16a9f1c81c3791dcf8b58b6bb31aac71602ee77c0",
+    "VALIDATION.md": "0954c2bc17547ab7d439c68f152e97319439452ba478b6662efd3808f658725b"
+  }
+}

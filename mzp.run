@@ -1,0 +1,6 @@
+name "H MEDIA 3D ACADEMY Unit Converter"
+version 3.2
+run "Install.ms"
+drop "Install.ms"
+clear temp on MAX exit
+
